@@ -15,7 +15,7 @@ public:
         return (base*height)/2.0;
     }
     float trapezoid(float base1, float base2, float height){
-        return ((base1+base2)/2)*height
+        return ((base1+base2)/2)*height;
     }
-}
+};
 

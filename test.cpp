@@ -4,6 +4,7 @@ using namespace std;
 
 int main() {
   area AreaLib;
-  cout << AreaLib.circle(1.5);   
+  //cout << to_string(AreaLib.circle(1.5)) << endl;   
+  cout << "circle";
   return 0;
 }
