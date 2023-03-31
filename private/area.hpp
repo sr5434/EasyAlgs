@@ -17,5 +17,8 @@ public:
     float trapezoid(float base1, float base2, float height){
         return ((base1+base2)/2)*height;
     }
+    float rectangular_prism(float length, float width, float height){
+        return length*width*height;
+    }
 };
 
