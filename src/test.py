@@ -1,2 +1,3 @@
-import example
-example.add(1, 2)
+import cppimport.import_hook
+import somecode
+print(somecode.square(5))
